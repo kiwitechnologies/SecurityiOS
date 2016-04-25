@@ -1,0 +1,3 @@
+framework module TSGSecurity {
+    header "TSGSecurity-Swift.h"
+}
