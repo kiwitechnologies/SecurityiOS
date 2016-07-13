@@ -11,7 +11,7 @@ Getting started
 1. Install Security Framework:
    ```bash
    
-   git clone https://github.com/kiwitechnologies/SecurityiOS.git
+   git clone https://github.com/Kiwitechnologies/TSGSecurityFramework.git
    ```
 
 2. The Security Folder contains two folders: Example and Framework. Example contains the sample code on how to use the framework and Framework folder contains the code to generate the framework.
