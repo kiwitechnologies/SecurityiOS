@@ -310,9 +310,9 @@
 				);
 				INFOPLIST_FILE = SecuritySample/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.tsg.LoginSample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.test.LoginSample;
 				PRODUCT_NAME = TSGSecuritySample;
-				PROVISIONING_PROFILE = "b7f70d78-249f-4c67-b401-7dd5da974f5a";
+				PROVISIONING_PROFILE = "be7a33c1-956f-4888-b122-c06c12c8a2bb";
 				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
@@ -333,9 +333,9 @@
 				);
 				INFOPLIST_FILE = SecuritySample/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.tsg.LoginSample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.test.LoginSample;
 				PRODUCT_NAME = TSGSecuritySample;
-				PROVISIONING_PROFILE = "b7f70d78-249f-4c67-b401-7dd5da974f5a";
+				PROVISIONING_PROFILE = "be7a33c1-956f-4888-b122-c06c12c8a2bb";
 				SWIFT_OBJC_BRIDGING_HEADER = "";
 			};
 			name = Release;
